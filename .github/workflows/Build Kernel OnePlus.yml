@@ -19,6 +19,7 @@ on:
           - oneplus_ace2_b
           - oneplus_pad_lite_b
           - oneplus_pad_mt6983_b
+          - oppo_find_n2_flip_b
           - oneplus_ace_2v_b
           - oneplus_ace_pro_v
           - oneplus_11_b
